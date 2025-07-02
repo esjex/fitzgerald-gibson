@@ -8,14 +8,14 @@ I specialise in turning complex information into accessible technical content th
 * UI text and user journeys
 * Internal technical communication
 
-I’ve worked on projects of all sizes, from major development software to small start-up tools. In addition to writing technical documentation, I have experience leading projects, establishing quality processes, mentoring technical writers, and speaking at conferences all over the world.
+I have over a decade of experiences, and have worked on projects of all sizes, from major development software to small start-up tools. I also have experience leading projects, establishing quality processes, mentoring technical writers, and speaking at conferences all over the world.
 
 ## Who I am
 
-I care about increasing the quality of projects that support people, by making information accessible and helping developers communicate their hard work. 
+I care about making information accessible, helping developers communicate their hard work, and increasing the quality of projects that support people. 
 
 Outside of work, I provide docs and communications support to hobbyist projects and events. I also make zines and hobby resources, volunteer as a healthcare advocate, and teach a local community samba band.
 
-My name is pronounced “shiv-awn”. Don’t worry about getting it wrong!
+My name is pronounced “**shiv-awn**”. Don’t worry about getting it wrong!
 
 
