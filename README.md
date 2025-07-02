@@ -1,5 +1,3 @@
-I’m a technical writer, editor and content strategist with over a decade of experience. I can help you with your team’s documentation and technical content.
-
 ## Technical content for humans, by humans
 
 I specialise in turning complex information into accessible technical content that makes your product easy for users to understand and use. My areas of expertise include:
