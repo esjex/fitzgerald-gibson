@@ -1,8 +1,6 @@
 ## What I do
 
-I help you write your team’s documentation, and any other technical content you need to produce.
-
-I specialise in turning complex information into accessible technical content, so that your product is easy to understand and use. My areas of expertise include:
+I turn complex information into accessible technical content, so that your product is easy to understand and use. My areas of expertise include:
 
 * User manual and API documentation
 * Tutorials and walkthroughs
@@ -13,5 +11,3 @@ I specialise in turning complex information into accessible technical content, s
 I have over a decade of experience working on projects of all sizes, from major development software to small start-up tools. I also have experience leading projects, establishing quality processes, mentoring technical writers, and speaking at conferences all over the world.
 
 My name is pronounced “**shiv-awn**”. Don’t worry about getting it wrong!
-
-
