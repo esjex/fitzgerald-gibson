@@ -1,6 +1,8 @@
 ## What I do
 
-I specialise in turning complex information into accessible technical content that makes your product easy for users to understand and use. My areas of expertise include:
+I help you write your team’s documentation, and any other technical content you need to produce.
+
+I specialise in turning complex information into accessible technical content, so that your product is easy to understand and use. My areas of expertise include:
 
 * User manual and API documentation
 * Tutorials and walkthroughs
