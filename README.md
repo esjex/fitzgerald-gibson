@@ -1,8 +1,8 @@
-# Siobhan Fitzgerald-Gibson
-
-## Technical Content Strategy and Design
+## About me
 
 Hello! I'm Siobhan (_shiv-awn_). I'm a [technical writer](https://en.wikipedia.org/wiki/Technical_writer) specialising in high-quality software documentation.
+
+## Technical Content Strategy and Design
 
 I turn complex information into accessible technical content, so that your product is easy to understand and use. My areas of expertise include:
 
