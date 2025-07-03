@@ -3,21 +3,22 @@
 
 @import "{{ site.theme }}";
 
-/* body {
+body {
     background-color: #fffcf6;
     padding: 50px;
     font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #727272;
     font-weight: 400
-} */
+} 
 
 a {
     color: #a2c4c9;
-    text-decoration: none;
+    font-weight: 800;
+    text-decoration: none
 }
 
 a:hover,a:focus {
     color: #f1bdc5;
-    font-weight: normal;
-    text-decoration: underline;
+    font-weight: 800;
+    text-decoration: none
 }
