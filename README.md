@@ -1,4 +1,6 @@
-## What I do
+# Technical Writer, Editor, & Content Strategist
+
+Hello! I'm Siobhan. I'm a [technical writer](https://en.wikipedia.org/wiki/Technical_writer) specialising in software documentation.
 
 I turn complex information into accessible technical content, so that your product is easy to understand and use. My areas of expertise include:
 

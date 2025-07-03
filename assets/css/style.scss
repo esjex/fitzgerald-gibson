@@ -2,6 +2,18 @@
 ---
 
 @import "{{ site.theme }}";
+
+header {
+    width: 270px;
+    float: left;
+    position: fixed;
+    -webkit-font-smoothing: subpixel-antialiased;
+    background-color: #fffcf6;
+    padding: 10px 10px;
+    border: 2px solid #a2c4c9;
+
+}
+
 body {
     background-color: #fffcf6;
     padding: 50px;
