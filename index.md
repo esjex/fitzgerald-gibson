@@ -2,7 +2,7 @@
 
 Hello! I'm Siobhan (_shiv-awn_). I'm a [technical writer](https://en.wikipedia.org/wiki/Technical_writer) specialising in high&#8209;quality software documentation.
 
-## Technical content strategy and design
+### Technical content strategy and design
 
 I turn complex information into accessible technical content, so that your product is easy to understand and use. My areas of expertise include:
 
