@@ -12,6 +12,6 @@ I turn complex information into accessible technical content, so that your produ
 * UI text and user journeys
 * Internal technical communication
 
-I have over a decade of experience working on projects of all sizes, from major development software to small start-up tools. I also have experience leading projects, establishing quality processes, mentoring technical writers, and speaking at conferences all over the world.
+I have over a decade of experience working on projects of all sizes, from major development software to small start-up tools. I also have experience leading projects, establishing quality processes, mentoring technical writers, and speaking at international conferences.
 
 To explore how I can help you with your project, [get in touch](mailto:hello@fitzgerald-gibson.com)!
