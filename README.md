@@ -1,6 +1,8 @@
-## Technical Writer, Editor, & Content Strategist
+# Siobhan Fitzgerald-Gibson
 
-Hello! I'm Siobhan. I'm a [technical writer](https://en.wikipedia.org/wiki/Technical_writer) specialising in software documentation.
+## Technical Content Strategy and Design
+
+Hello! I'm Siobhan. I'm a **technical writer**, **technical editor** and **content designer** specialising in software documentation.
 
 I turn complex information into accessible technical content, so that your product is easy to understand and use. My areas of expertise include:
 
