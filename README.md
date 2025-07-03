@@ -1,6 +1,6 @@
 ## About me
 
-Hello! I'm Siobhan (_shiv-awn_). I'm a [technical writer](https://en.wikipedia.org/wiki/Technical_writer) specialising in high-quality software documentation.
+Hello! I'm Siobhan (_shiv-awn_). I'm a [technical writer](https://en.wikipedia.org/wiki/Technical_writer) specialising in high&#8209;quality software documentation.
 
 ## Technical content strategy and design
 
@@ -12,6 +12,6 @@ I turn complex information into accessible technical content, so that your produ
 * UI text and user journeys
 * Internal technical communication
 
-I have over a decade of experience working on projects of all sizes, from major development software to small start-up tools. I also have experience leading projects, establishing quality processes, mentoring technical writers, and speaking at international conferences.
+I have over a decade of experience working on projects of all sizes, from major development software to small start&#8209;up tools. I also have experience leading projects, establishing quality processes, mentoring technical writers, and speaking at international conferences.
 
 To explore how I can help you with your project, [get in touch](mailto:hello@fitzgerald-gibson.com)!
