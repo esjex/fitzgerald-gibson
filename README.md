@@ -1,4 +1,4 @@
-# Technical Writer, Editor, & Content Strategist
+## Technical Writer, Editor, & Content Strategist
 
 Hello! I'm Siobhan. I'm a [technical writer](https://en.wikipedia.org/wiki/Technical_writer) specialising in software documentation.
 
