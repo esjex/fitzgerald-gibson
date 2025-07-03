@@ -1,8 +1,8 @@
-# Siobhan Fitzgerald-Gibson\*
+# Siobhan Fitzgerald-Gibson
 
 ## Technical Content Strategy and Design
 
-Hello! I'm Siobhan. I'm a **Technical Writer**, **Technical Editor** and **Content Designer** specialising in software documentation.
+Hello! I'm Siobhan. I'm a [technical writer](https://en.wikipedia.org/wiki/Technical_writer) specialising in software documentation.
 
 I turn complex information into accessible technical content, so that your product is easy to understand and use. My areas of expertise include:
 
@@ -14,6 +14,6 @@ I turn complex information into accessible technical content, so that your produ
 
 I have over a decade of experience working on projects of all sizes, from major development software to small start-up tools. I also have experience leading projects, establishing quality processes, mentoring technical writers, and speaking at conferences all over the world.
 
-[Get in touch](mailto:hellp@fitzgerald-gibson.com) to explore how I can help you with your project!
+To explore how I can help you with your project, [get in touch](mailto:hello@fitzgerald-gibson.com)!
 
-\*My name is pronounced “**shiv-awn**”.
+(In case you're wondering: My name is pronounced **shiv-awn**.)
