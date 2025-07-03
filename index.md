@@ -1,6 +1,6 @@
 ## About me
 
-Hello! I'm Siobhan (_shiv-awn_). I'm a [technical writer](https://en.wikipedia.org/wiki/Technical_writer) specialising in high&#8209;quality software documentation.
+Hello! I'm Siobhán (_shiv-awn_). I'm a [technical writer](https://en.wikipedia.org/wiki/Technical_writer) specialising in high&#8209;quality software documentation.
 
 ### Technical writing, editing, and content strategy
 
