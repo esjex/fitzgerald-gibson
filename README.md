@@ -1,4 +1,4 @@
-## About me
+## About Me
 
 Hello! I'm Siobhan (_shiv-awn_). I'm a [technical writer](https://en.wikipedia.org/wiki/Technical_writer) specialising in high-quality software documentation.
 
@@ -14,4 +14,4 @@ I turn complex information into accessible technical content, so that your produ
 
 I have over a decade of experience working on projects of all sizes, from major development software to small start-up tools. I also have experience leading projects, establishing quality processes, mentoring technical writers, and speaking at conferences all over the world.
 
-To explore how I can help you with your project, [**get in touch**](mailto:hello@fitzgerald-gibson.com)!
+To explore how I can help you with your project, [get in touch](mailto:hello@fitzgerald-gibson.com)!
