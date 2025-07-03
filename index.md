@@ -10,7 +10,7 @@ I turn complex information into accessible technical content, so that your produ
 * Tutorials and walkthroughs
 * Technical articles and marketing content
 * UI text and user journeys
-* Internal technical communication
+* Internal technical docs and communication
 
 I have over a decade of experience working on projects of all sizes, from major development software to small start&#8209;up tools. I also have experience leading projects, establishing quality processes, mentoring technical writers, and speaking at international conferences.
 
