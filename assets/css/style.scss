@@ -22,3 +22,8 @@ a:hover,a:focus {
     font-weight: 800;
     text-decoration: none
 }
+
+img {
+    border: 4px solid #a2c4c9;
+    transform: scaleX(-1)
+}
