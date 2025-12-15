@@ -22,7 +22,6 @@ Beyond my client work, I contribute docs and communications support to hobby pro
 
 I'm currently available for long and short-term projects.
 
-Portfolio
 [Download my portfolio](portfolio-siobhan-fitzgerald-gibson.zip) (PDFs) to view examples of my work.
 
 For more on my background, or to get in touch, you can find me on [LinkedIn](https://www.linkedin.com/in/siobhan-fitzgerald-gibson/).
